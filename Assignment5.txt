@@ -1,0 +1,7 @@
+Question 5 - What is the DOCTYPE Declaration in HTML?
+
+Ans - The HTML DOCTYPE is the first line of code required in every HTML document which is an instruction to the Web Browser about the what version HTML the page is written in. This ensures that the web web page is parsed the same way by different web browsers.
+
+# Doctype syntax for HTML5 :-
+
+<!DOCTYPE html>

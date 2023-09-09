@@ -1,0 +1,11 @@
+Question 4 - Write short note on Tag and element with an example?
+
+Ans - HTML Tags :- Tags are the starting and ending parts of an HTML element. They begin with '<' symbol and end with '>' symbol. Whatever written inside <and> are known as tags. HTML tags are almost like keywords where every single tag has some unique meaning.
+
+Examples - <html>, <head>, <body>, <div>, <p> etc
+
+# HTML elements - Elements enclose the contents in between the tags. They consist of some kind of structure or expression. it is generally consists of a start tag, content and end tag. In simple word we can say that HTML elements specifies the general content of the Web page.
+
+Examples - 1). <b>Bold text</b>
+
+2). <p>This is paragraph element</p>
